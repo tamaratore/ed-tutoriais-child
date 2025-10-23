@@ -1,2 +1,2 @@
-# ed-tutoriais-child
-Child theme do Divi para o site ED Tutoriais
+# ed-tutoriais-site
+Arquivos principais do site ED Tutoriais
